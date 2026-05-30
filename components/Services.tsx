@@ -13,7 +13,10 @@ import {
   FileText,
   Shield,
   Scale,
+  ShieldCheck,
   ScrollText,
+  FileSearch,
+  Search,
   Sparkles,
   ArrowUpRight,
   LucideIcon,
@@ -103,6 +106,47 @@ const services: ServiceSectionType[] = [
       },
     ],
   },
+  {
+  category: "Private Investigation & Forensic Services",
+  items: [
+    {
+      icon: Search,
+      title: "Investigation Services",
+      points: [
+        "Uncover facts through professional and discreet investigations.",
+        "Gather and verify evidence for legal and personal matters.",
+        "Conduct detailed background and due diligence checks.",
+      ],
+    },
+    {
+      icon: FileSearch,
+      title: "Forensic & Evidence Analysis",
+      points: [
+        "Analyze documents and records for authenticity.",
+        "Support legal cases with evidence-based findings.",
+        "Provide detailed forensic reports and assessments.",
+      ],
+    },
+    {
+      icon: ShieldCheck,
+      title: "Personal Security Services",
+      points: [
+        "Protect individuals, families, and valuable assets.",
+        "Assess security risks and recommend safeguards.",
+        "Deliver customized protection solutions.",
+      ],
+    },
+    {
+      icon: Scale,
+      title: "Risk & Compliance Advisory",
+      points: [
+        "Identify potential threats and vulnerabilities.",
+        "Support accountability and regulatory compliance.",
+        "Provide strategic guidance for risk mitigation.",
+      ],
+    },
+  ],
+},
 ];
 
 /* =========================================================
