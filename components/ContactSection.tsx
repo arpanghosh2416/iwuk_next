@@ -109,7 +109,7 @@ export default function ContactSection() {
           className="lg:col-span-6 w-full max-w-xl mx-auto lg:ml-auto"
           variants={itemVariants}
         >
-          <div className="relative h-[680px] md:h-[720px]">
+          <div className="relative h-[680px] md:h-[720px] mb-22">
             <iframe
               src="https://link.youngarchitects.in/widget/form/2Q7m2pGvNh0mXRUMWFnB"
               title="Contact Us Innerwork Advisors Limited"
