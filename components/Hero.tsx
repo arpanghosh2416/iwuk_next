@@ -181,6 +181,7 @@ export default function Hero() {
               "Face-to-face consultations in UK",
               "On-ground representation in India",
               "Prompt & lawful solutions",
+              "Private Investigation & Forensic Services",
             ].map((item) => (
               <div
                 key={item}
