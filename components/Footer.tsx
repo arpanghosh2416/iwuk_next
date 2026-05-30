@@ -95,7 +95,7 @@ export default function Footer() {
                 </p>
 
                 <p className="text-xs font-medium text-white group-hover:text-amber-400 transition-colors">
-                  07941 485199 / 0161 676 2361
+                  +44 7941 485199 / +91 9830232051
                 </p>
               </div>
             </div>
