@@ -171,7 +171,7 @@ export default function Hero() {
               whileTap={{ scale: 0.97 }}
               className="hero-btn w-full sm:w-auto px-8 py-4 rounded-full border border-white/20 bg-white/10 backdrop-blur-md font-medium"
             >
-              Call UK: +07941485199
+              Call UK: +44 7941 485199
             </motion.button>
           </div>
 
