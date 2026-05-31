@@ -92,7 +92,7 @@ export default function ContactSection() {
               className="inline-flex items-center justify-center px-6 py-3 rounded-lg bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-black font-semibold text-sm transition-all duration-300 shadow-lg shadow-amber-500/20 hover:shadow-amber-500/40 hover:-translate-y-0.5 w-full sm:w-auto"
             >
               <Phone className="w-4 h-4 mr-2 stroke-[2.5]" />
-              Call UK: 07941 485199
+              Call UK: +44 7941 485199
             </a>
             <a 
               href="mailto:info@innerworkadvisors.co.uk" 
