@@ -629,7 +629,7 @@ export default function Services() {
 
                 {/* Gradient Text */}
                 <span className="relative bg-gradient-to-r from-[#f2cf7b] via-[#ffe6aa] to-[#f2cf7b] bg-clip-text text-transparent">
-                  Specialized NRI Services
+                  Specialized Services
                 </span>
               </span>
             </h2>
